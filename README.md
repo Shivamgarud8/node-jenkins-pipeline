@@ -112,4 +112,5 @@ Every new push to GitHub will:
 🧠 *DevOps & Cloud Enthusiast*  
 💼 *Automating deployments, one pipeline at a time!*  
 🌐 [GitHub Profile](https://github.com/Shivamgarud8)  
-🌐 [Medium Blog](https://medium.com/@shivam.garud2011)
+🌐 [Medium Blog](https://medium.com/@shivam.garud2011/automated-node-js-app-deployment-using-jenkins-pipeline-708c2a4c7f6e) 
+
